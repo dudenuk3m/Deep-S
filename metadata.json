@@ -1,0 +1,5 @@
+{
+  "name": "Photon Counting CT Explorer",
+  "description": "An interactive educational guide to Photon Counting CT technology, comparing detector architectures and spectral imaging capabilities.",
+  "requestFramePermissions": []
+}
